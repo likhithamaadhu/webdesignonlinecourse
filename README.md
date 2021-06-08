@@ -26,7 +26,7 @@ This repo contains online web design course using react JS
 
 ![Tajmahal](https://i.redd.it/wyz0b2mji3t41.jpg)
 
-Name    | Number
+Name| Number
 --------|-------
 Lucky|5198498150
 likhitha| 5165165656
