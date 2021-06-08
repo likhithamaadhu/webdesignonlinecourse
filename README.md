@@ -7,3 +7,6 @@ This repo contains online web design course using react JS
 ##### heading 5
 ###### heading 6
 
+**This is bold type of fontstyle**
+*this is italic*
+***This is both bold and italic***
