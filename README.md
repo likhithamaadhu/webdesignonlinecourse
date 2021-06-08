@@ -10,3 +10,16 @@ This repo contains online web design course using react JS
 **This is bold type of fontstyle**
 *this is italic*
 ***This is both bold and italic***
+
+1. Fruits
+    1. ff
+    2. fdvdf
+  
+  
+  
+* vegetabkes
+    * fjdk
+    * jfjdk
+    *  fkj
+
+[Google](https://www.google.com/)
