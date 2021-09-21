@@ -24,7 +24,7 @@ This repo contains online web design course using react JS
 
 [Google](https://www.google.com/)
 
-![Elsa](https://i.redd.it/wyz0b2mji3t41.jpg)
+![image](https://user-images.githubusercontent.com/84303726/134135529-2774b955-4512-460a-b1dd-4fc906976c76.png)
 
 Name| Number
 --------|-------
